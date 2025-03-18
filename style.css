@@ -29,4 +29,24 @@ h1{
 
     text-align: center;
 
+    margin-top: 8%;
+    margin-bottom: 6%;
+
+}
+
+.button-jouer{
+    display: block;
+    margin: 20px auto;
+    font-weight: bold; /* Texte en gras */
+    padding: 10px 20px; /* Espace interne */
+
+
+}
+
+
+footer{
+
+
+    text-align: center;
+    margin-top: 20%;
 }
